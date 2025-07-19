@@ -33,7 +33,7 @@ Currently managing my own tech company, **Wincod**.
 
 ### 🚀 Featured Projects
 
-- 📱 **Wincod App**  
+- 📱 **Tenshots App**  
   A mobile application for service booking and business management (coming soon).
 
 - 💼 **Business Dashboard**  
