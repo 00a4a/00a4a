@@ -1,4 +1,6 @@
-
+​مطور تطبيقات ويب | مؤسس Wincod
+🚀 شغوف بتحويل الأفكار المبتكرة إلى منتجات رقمية ناجحة تخدم المستخدم العربي.
+👨‍💻 حالياً: أقود فريق العمل في Wincod لتطوير حلول تقنية تساعد الجميع.
 <h1 align="center">Hi there, I'm Abdullah Ahmed 👋</h1>
 
 <p align="center">
@@ -8,10 +10,7 @@
 ---
 
 ### 🔹 About Me
-
-A web and mobile applications developer with proven experience in building high-quality digital solutions for companies and individuals across the Arab world.  
-Passionate about transforming ideas into successful digital products.  
-Currently managing my own tech company, **Wincod**.
+أكرس شغفي لتحويل الأفكار والرؤى إلى منتجات رقمية ناجحة ومستدامة. أشغل حالياً منصب المدير التنفيذي لشركتي التقنية الخاصة "Wincod".
 
 ---
 
@@ -35,6 +34,7 @@ Currently managing my own tech company, **Wincod**.
 
 - 📱 **Tenshots App**  
   A mobile application for service booking and business management (coming soon).
+
 
 - 💼 **Business Dashboard**  
   An admin panel for analytics and operations control (private repo / client work).
