@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Abdullah Ahmed 👋</h1>
 
 <p align="center">
-  🚀 Developer & Founder of <strong>Wincod</strong> | 💻 Web & Mobile Expert | 🌍 Based in the Arab World
+  🚀 Developer & Founder of <strong>Wincod</strong> | 💻 Web  | 🌍 Based in the Arab World
 </p>
 
 ---
@@ -17,10 +17,10 @@
 ### 🧰 Tech Stack
 
 - 💻 Languages: Dart, PHP, TypeScript
-- 🌐 Frontend: React, .Flutter, Tailwind CSS, HTML/CSS
-- 🔧 Backend: Node.js, Express, Laravel
+- 🌐 Frontend: Flutter, Tailwind CSS, HTML/CSS
+- 🔧 Backend: ......
 - 🛢️ Database: MySQL
-- ☁️ Tools: Git, GitHub, Firebase
+- ☁️ Tools: Firebase
 
 ---
 
@@ -43,8 +43,8 @@
 
 ### 📫 Connect With Me
 
-- 🌐 Website: [wincod.ye.com](https://wincod.ye.com)
-- 📧 Email: mdremm966@gmail.com
+- 🌐 Website: [wincod.tech](https://wincod.tech)
+- 📧 Email: info.wincod.tech
 - 🔗 LinkedIn: [Abdullah Hassan](https://www.linkedin.com/in/abdullah-hassan-2169502b6)
 
 ---
